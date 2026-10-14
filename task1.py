@@ -20,4 +20,4 @@ for customer in customers:
     price = base_price
   print(name, "-", round(price, 2), "AZN")
   total += price
-print("Umumi gelir:", round(total, 2), "AZN")
+print("Total revenue:", round(total, 2), "AZN")
